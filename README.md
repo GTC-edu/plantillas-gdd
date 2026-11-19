@@ -22,6 +22,6 @@ Duplica las fichas que necesites por nivel, personaje, mecánica, sistema o entr
 
 ## Uso libre
 
-Puedes usar, copiar, modificar, traducir, compartir, redistribuir y vender estas plantillas, también dentro de proyectos comerciales. No tienes que mencionar a GTC ni conservar su nombre en tu copia. Consulta el [permiso de uso](PERMISO_DE_USO.md).
+Puedes usar, copiar, modificar, traducir, compartir, redistribuir y vender estas plantillas, también dentro de proyectos comerciales. No tienes que mencionar a GTC ni conservar su nombre en tu copia. Consulta el [permiso de uso](PERMISO_DE_USO.md). Las plantillas se publican bajo [CC0 1.0 Universal](LICENSE) (dedicación al dominio público).
 
 Edición de la plantilla: 1.0. La versión y la fecha de cada documento de tu juego las completa tu equipo.
